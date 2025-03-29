@@ -44,8 +44,6 @@ A full-stack notebook management web app built with **React, Node.js, Express, a
 git clone https://github.com/maulimogal/notebook-app.git
 cd notebook-app
 
----
-
 ## 🏗️ Software Architecture Overview  
 
 Your application consists of the following components:  
