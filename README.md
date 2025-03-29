@@ -122,6 +122,6 @@ Your application consists of the following components:
 ---
 
 ## 🛠️ Contributors  
-- **Your Name** ([@maulimogal](https://github.com/maulimogal))  
+- **Mauli Mogal** ([@maulimogal](https://github.com/maulimogal))  
 
 🚀 Happy Coding!  
