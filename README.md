@@ -95,3 +95,33 @@ Your application consists of the following components:
 ✅ **Frontend Dockerfile** (React app)  
 ✅ **Backend Dockerfile** (Node.js API)  
 ✅ **Docker Compose** for PostgreSQL & app services
+
+---
+
+## 🏗️ System Architecture Flow Diagram  
+ 
+*(Insert your system architecture diagram here)*
+
+---
+
+## 🔥 API Endpoints  
+
+### 🔹 Authentication  
+- `POST /auth/signup` → Register user  
+- `POST /auth/login` → Authenticate user  
+
+### 🔹 Workspaces  
+- `GET /workspaces` → Fetch all workspaces  
+
+### 🔹 Notebooks  
+- `POST /notebooks` → Create a new notebook  
+- `GET /notebooks?workspace_id={id}` → Get notebooks  
+- `GET /notebooks/search?query={search_term}` → Search notebooks  
+- `DELETE /notebooks/:id` → Delete a notebook  
+
+---
+
+## 🛠️ Contributors  
+- **Your Name** ([@maulimogal](https://github.com/maulimogal))  
+
+🚀 Happy Coding!  
